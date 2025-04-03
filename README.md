@@ -19,3 +19,9 @@ This is a classic **Snake Game** built using **JavaScript, HTML, and CSS**. The 
 4. **Every update is committed to GitHub**, adding to your contribution graph! 🟩🟩🟩
 
 ---
+## 🚀 Setup Instructions
+
+### 1️⃣ Clone the Repository
+```sh
+ git clone https://github.com/YOUR_USERNAME/snake-game.git
+ cd snake-game
